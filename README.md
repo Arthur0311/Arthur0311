@@ -1,7 +1,7 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Arthur0311/bbdef0b8c639a37f503798fdb4ac54a6/raw/8d17ff09c81ee0635e11fd597f38940089ddd0f8/githubcard.svg"/>
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Arthur Bernardino</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur0311&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Arthur0311&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer & focusing on learning and helping people learn about programming
 
